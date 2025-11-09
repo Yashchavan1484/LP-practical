@@ -1,2 +1,0 @@
-Index	Macro Name
-1	INCR
